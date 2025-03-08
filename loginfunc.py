@@ -57,4 +57,4 @@ def login(account,password):
     return response.url
 
 if __name__ == '__main__':
-    print(login('2024904487','yy8173225'))
+    print(login('',''))
